@@ -1,4 +1,4 @@
-## Created Newsletter-SignUp app via Mailchimp Server API
+## Created Newsletter-SignUp app via Mailchimp Server API using Node.js
 
 it's a single page website that on the front end it looks incredbly simple, but on the backend it's got some powerful functionality that will allow you to sign people up to your mailing list.
  
